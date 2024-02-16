@@ -1,6 +1,6 @@
 eureka:
   instance:
-    prefer-ip-address: 172.30.1.30
+    prefer-ip-address: 3.96.12.133
   client:
     fetch-registry: true
     register-with-eureka: true
